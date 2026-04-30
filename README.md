@@ -40,7 +40,7 @@ Unlike basic detection systems, this solution reduces false positives by trigger
 ## ▶️ Installation
 
 ```bash
-git clone https://github.com/your-username/AI-Smart-Surveillance-System.git
-cd AI-Smart-Surveillance-System
+git clone https://github.com/rafay-datascientistAI/Smart-CCTV-AI-Monitoring.git
+cd Smart-CCTV-AI-Monitoring
 pip install -r requirements.txt
 python app.py
