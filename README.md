@@ -37,6 +37,12 @@ Unlike basic detection systems, this solution reduces false positives by trigger
 
 ---
 
+## Screenshot
+
+![AI Surveillance System](screenshot.jpeg)
+
+---
+
 ## ▶️ Installation
 
 ```bash
